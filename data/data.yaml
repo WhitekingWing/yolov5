@@ -1,0 +1,5 @@
+nc : 1
+train : F:/archive/images/train
+val : F:/archive/images/valid
+test : F:/archive/images/test
+names : ['Tumor']
