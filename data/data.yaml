@@ -1,5 +1,5 @@
 nc : 1
-train : F:/archive/images/train
-val : F:/archive/images/valid
-test : F:/archive/images/test
+train : /content/images/train
+val : /content/images/valid
+test : /content/images/test
 names : ['Tumor']
